@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir" : "deps"
+    },
+    "require": {
+        "fukuball/jieba-php":"dev-master"
+    }
+}
